@@ -219,15 +219,8 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-    # _talks
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: teaching
-      author_profile: false
-      share: false
-
+      
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -260,7 +253,6 @@ whitelist:
 feed:
   collections:
     - publications
-    - research
     - talks
 
 # Archives
