@@ -248,6 +248,12 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+# Useful for jekyll-feed
+feed:
+  collections:
+    - publications
+    - research
+    - talks
 
 # Archives
 #  Type
