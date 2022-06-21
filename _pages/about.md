@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 <center>
-    <img alt="RPol-1.png" src="/images/RPol-1.png" width="500" />
+    <img alt="ouss.gif" src="/images/ouss.gif" width="500" />
 </center>
 
