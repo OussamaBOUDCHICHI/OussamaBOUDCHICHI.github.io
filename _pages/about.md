@@ -8,3 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<center>
+    <img alt="RPol-1.png" src="/images/RPol-1.png" width="500" />
+</center>
+
